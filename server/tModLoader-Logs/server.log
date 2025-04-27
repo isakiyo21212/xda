@@ -1,0 +1,252 @@
+[14:59:27.624] [Main Thread/INFO] [tML]: Starting tModLoader server 1.4.4.9+2025.02.3.2|2025.02|stable|Stable|2b5a2bc3aa9791f30bbba2abc9af6472bea8f414|5250481588230976153 built 04/06/2025 17:23
+[14:59:27.630] [Main Thread/INFO] [tML]: Log date: 04/26/2025
+[14:59:27.630] [Main Thread/INFO] [tML]: Running on Linux (v6.8.0.1026) X64 NetCore 8.0.0
+[14:59:27.633] [Main Thread/INFO] [tML]: CPU: 2 processors. RAM: 7.8 GB
+[14:59:27.633] [Main Thread/INFO] [tML]: FrameworkDescription: .NET 8.0.0
+[14:59:27.633] [Main Thread/INFO] [tML]: Executable: /workspaces/xda/server/tModLoader.dll
+[14:59:27.633] [Main Thread/INFO] [tML]: Working Directory: /workspaces/xda/server
+[14:59:27.634] [Main Thread/INFO] [tML]: Launch Parameters: -server -config serverconfig.txt
+[14:59:27.636] [Main Thread/INFO] [tML]: Parsed Launch Parameters: -server -config serverconfig.txt
+[14:59:28.021] [Main Thread/INFO] [tML]: No config.json found at /home/codespace/.local/share/Terraria/tModLoader/config.json
+Assuming nothing to port
+[14:59:28.021] [Main Thread/INFO] [tML]: Saves Are Located At: /home/codespace/.local/share/Terraria/tModLoader
+[14:59:28.033] [Main Thread/INFO] [tML]: Finding Mods...
+[14:59:28.603] [Main Thread/INFO] [tML]: Distribution Platform: Steam. Detection method: Terraria.exe or Terraria_v1.4.4.9.exe not found nearby
+[14:59:28.709] [Main Thread/INFO] [tML]: Current 1281930 Workshop Folder Directory: steamapps/workshop
+[14:59:30.359] [Main Thread/DEBUG] [tML]: Network compatibility version is 2025.2.3
+[14:59:31.470] [Main Thread/INFO] [tML]: Finding Mods...
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected BossChecklist 2.2.2 for tML 2024.9.3.0 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected BossCursor 3.0.0 for tML 2023.6.23.0 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected BTitles 2.8.5 for tML 2025.2.3.2 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected MagicStorage 0.6.0.3 for tML 2023.6.25.31 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected NCBSI 6.3 for tML 2024.10.3.0 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected OreExcavator 0.8.9 for tML 2024.6.3.1 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected RecipeBrowser 0.10.8.3 for tML 2024.10.3.0 from Local.
+[14:59:31.520] [Main Thread/DEBUG] [tML]: Selected Remnants 1.5.46.2 for tML 2025.2.3.2 from Local.
+[14:59:31.521] [Main Thread/DEBUG] [tML]: Selected SerousCommonLib 1.0.5.1 for tML 2023.11.3.3 from Local.
+[14:59:31.521] [Main Thread/DEBUG] [tML]: Selected SummonsUIAlt 1.3.3 for tML 2024.9.3.0 from Local.
+[14:59:31.521] [Main Thread/DEBUG] [tML]: Selected SylaResourcePackLib 1.0 for tML 2024.4.3.2 from Local.
+[14:59:31.521] [Main Thread/DEBUG] [tML]: Selected ThoriumMod 1.7.2.3 for tML 2025.1.3.1 from Local.
+[14:59:31.521] [Main Thread/DEBUG] [tML]: Selected WombatQOL 1.3.13 for tML 2025.2.3.2 from Local.
+[14:59:31.528] [Main Thread/INFO] [tML]: Finding Mods...
+[14:59:31.898] [Main Thread/INFO] [tML]: Sandboxing: BossChecklist (Boss Checklist) v2.2.2
+[14:59:31.914] [Main Thread/DEBUG] [tML]: Hook System.Runtime.Loader.AssemblyLoadContext::ValidateAssemblyNameWithSimpleName(Assembly, string) added by tModLoader
+[14:59:31.966] [Main Thread/INFO] [tML]: Sandboxing: SerousCommonLib (absoluteAquarian Utilities) v1.0.5.1
+[14:59:31.984] [Main Thread/INFO] [tML]: Sandboxing: MagicStorage (Magic Storage) v0.6.0.3
+[14:59:32.025] [Main Thread/INFO] [tML]: Sandboxing: NCBSI (Not Consumable Boss Summon Items + New vanilla Boss Summons) v6.3
+[14:59:32.034] [Main Thread/INFO] [tML]: Sandboxing: OreExcavator (Ore Excavator (1.4.3/1.4.4 Veinminer)) v0.8.9
+[14:59:32.044] [Main Thread/INFO] [tML]: Sandboxing: RecipeBrowser (Recipe Browser) v0.10.8.3
+[14:59:32.063] [Main Thread/INFO] [tML]: Sandboxing: WombatQOL (Wombat's General Improvements) v1.3.13
+[14:59:32.080] [Main Thread/INFO] [tML]: Sandboxing: Remnants (Remnants) v1.5.46.2
+[14:59:32.122] [Main Thread/INFO] [tML]: Sandboxing: ThoriumMod (Thorium Mod) v1.7.2.3
+[14:59:32.811] [Main Thread/INFO] [tML]: Constructing Mods...
+[14:59:32.837] [Main Thread/INFO] [tML]: Adding Content: ModLoader (tModLoader) v2025.2.3.2
+[14:59:32.975] [Main Thread/INFO] [tML]: Adding Content: BossChecklist (Boss Checklist) v2.2.2
+[14:59:33.261] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::UpdateTime_StartDay(ref bool) added by BossChecklist
+[14:59:33.285] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::UpdateTime_StartNight(ref bool) added by BossChecklist
+[14:59:33.297] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ApplyMusicBox(Item) added by BossChecklist
+[14:59:33.298] [Main Thread/INFO] [tML]: Adding Content: SerousCommonLib (absoluteAquarian Utilities) v1.0.5.1
+[14:59:33.304] [Main Thread/DEBUG] [tML]: Hook Terraria.ModLoader.TileLoader::NearbyEffects(int, int, int, bool) added by SerousCommonLib
+[14:59:33.306] [Main Thread/INFO] [tML]: Adding Content: MagicStorage (Magic Storage) v0.6.0.3
+[14:59:33.369] [Main Thread/DEBUG] [tML]: Hook Terraria.Recipe::FindRecipes(bool) added by MagicStorage
+[14:59:33.373] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::QuickSpawnItem(IEntitySource, int, int) added by MagicStorage
+[14:59:33.415] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawInterface_36_Cursor() added by MagicStorage
+[14:59:33.435] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::MouseHover(Item[], int, int) added by MagicStorage
+[14:59:33.469] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::LeftClick(Item[], int, int) added by MagicStorage
+[14:59:33.481] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::RightClick(Item[], int, int) added by MagicStorage
+[14:59:33.499] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::OverrideHover(Item[], int, int) added by MagicStorage
+[14:59:33.509] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::OverrideLeftClick(Item[], int, int) added by MagicStorage
+[14:59:33.594] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.Drawing.ParticleOrchestrator::Spawn_ItemTransfer(ParticleOrchestraSettings) added by MagicStorage
+[14:59:33.673] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::ItemCheck_ApplyHoldStyle_Inner(float, Item, Rectangle) added by MagicStorage
+[14:59:33.681] [Main Thread/DEBUG] [tML]: Hook Terraria.ModLoader.TileLoader::NearbyEffects(int, int, int, bool) added by MagicStorage
+[14:59:33.706] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::DoUpdate_HandleChat() added by MagicStorage
+[14:59:33.729] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::QuickStackAllChests() added by MagicStorage
+[14:59:33.734] [Main Thread/DEBUG] [tML]: ILHook Terraria.Chest::ServerPlaceItem(int, int) added by MagicStorage
+[14:59:33.750] [Main Thread/DEBUG] [tML]: ILHook Terraria.ModLoader.RecipeLoader::AddRecipes() added by MagicStorage
+[14:59:33.761] [Main Thread/DEBUG] [tML]: ILHook Terraria.ModLoader.RecipeLoader::PostAddRecipes() added by MagicStorage
+[14:59:33.769] [Main Thread/DEBUG] [tML]: ILHook Terraria.ModLoader.RecipeLoader::PostSetupRecipes() added by MagicStorage
+[14:59:33.776] [Main Thread/DEBUG] [MagicStorage]: EnvironmentModule "MagicStorage/JourneyInfiniteItems" added by mod "MagicStorage"
+[14:59:33.776] [Main Thread/DEBUG] [MagicStorage]: EnvironmentModule "MagicStorage/UseInventoryModule" added by mod "MagicStorage"
+[14:59:33.776] [Main Thread/DEBUG] [MagicStorage]: EnvironmentModule "MagicStorage/UseInventoryNoFavoritesModule" added by mod "MagicStorage"
+[14:59:33.802] [Main Thread/INFO] [tML]: Adding Content: NCBSI (Not Consumable Boss Summon Items + New vanilla Boss Summons) v6.3
+[14:59:33.815] [Main Thread/INFO] [tML]: Adding Content: OreExcavator (Ore Excavator (1.4.3/1.4.4 Veinminer)) v0.8.9
+[14:59:33.896] [Main Thread/INFO] [OreExcavator]: Loading [Ore Excavator (1.4.3/1.4.4 Veinminer)] - v0.8.9... (RELEASE)
+[14:59:33.908] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::SpawnFallingBlockProjectile(int, int, Tile, Tile, Tile, int) added by OreExcavator
+[14:59:33.908] [Main Thread/INFO] [tML]: Adding Content: RecipeBrowser (Recipe Browser) v0.10.8.3
+[14:59:33.942] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::AdjTiles() added by RecipeBrowser
+[14:59:33.942] [Main Thread/INFO] [tML]: Adding Content: WombatQOL (Wombat's General Improvements) v1.3.13
+[14:59:34.007] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::CalculateWaterStyle(bool) added by WombatQOL
+[14:59:34.008] [Main Thread/INFO] [tML]: Adding Content: Remnants (Remnants) v1.5.46.2
+[14:59:34.135] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::dropMeteor() added by Remnants
+[14:59:34.161] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::ShimmerCleanUp() added by Remnants
+[14:59:34.162] [Main Thread/INFO] [tML]: Adding Content: ThoriumMod (Thorium Mod) v1.7.2.3
+[14:59:34.832] [Main Thread/DEBUG] [tML]: Hook Terraria.ID.ContentSamples+BestiaryHelper::GetSortedBestiaryEntriesList(BestiaryDatabase) added by ThoriumMod
+[14:59:34.921] [Main Thread/DEBUG] [tML]: Hook Terraria.GameInput.TriggersSet::CopyInto(Player) added by ThoriumMod
+[14:59:35.143] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::IsAmmoFreeThisShot(Item, Item, int) added by ThoriumMod
+[14:59:35.649] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawSet::BoringSetup_2(Player, List`1, List`1, List`1, Vector2, float, float, Vector2) added by ThoriumMod
+[14:59:35.712] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GetItem_FillEmptyInventorySlot(int, Item, GetItemSettings, Item, int) added by ThoriumMod
+[14:59:35.743] [Main Thread/DEBUG] [tML]: Hook Terraria.Item::NewItem_Inner(IEntitySource, int, int, int, int, Item, int, int, bool, int, bool, bool) added by ThoriumMod
+[14:59:35.787] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::Spawn(PlayerSpawnContext) added by ThoriumMod
+[14:59:35.871] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::PickTile(int, int, int) added by ThoriumMod
+[14:59:35.878] [Main Thread/DEBUG] [tML]: Hook Terraria.HitTile::AddDamage(int, int, bool) added by ThoriumMod
+[14:59:36.248] [Main Thread/DEBUG] [tML]: Hook Terraria.Item::CanFillEmptyAmmoSlot() added by ThoriumMod
+[14:59:36.540] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::DoDeathEvents(Player) added by ThoriumMod
+[14:59:36.548] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::DespawnEncouragement_AIStyle3_Fighters_NotDiscouraged(int, Vector2, NPC) added by ThoriumMod
+[14:59:36.560] [Main Thread/DEBUG] [tML]: Hook Terraria.Graphics.Renderers.LegacyPlayerRenderer::DrawPlayerInternal(Camera, Player, Vector2, float, Vector2, float, float, float, bool) added by ThoriumMod
+[14:59:36.630] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::Shimmer() added by ThoriumMod
+[14:59:36.697] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ItemCheck_MeleeHitNPCs(Item, Rectangle, int, float) added by ThoriumMod
+[14:59:37.000] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::UpdatePortableStoolUsage() added by ThoriumMod
+[14:59:37.034] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GrappleMovement() added by ThoriumMod
+[14:59:37.040] [Main Thread/DEBUG] [tML]: Hook Terraria.ModLoader.ExtraJumpLoader::RefreshJumps(Player) added by ThoriumMod
+[14:59:37.046] [Main Thread/DEBUG] [tML]: Hook Terraria.IO.WorldFile::ClearTempTiles() added by ThoriumMod
+[14:59:37.055] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::shine(Color, int) added by ThoriumMod
+[14:59:37.060] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::shine(ref Vector3, int) added by ThoriumMod
+[14:59:37.067] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::KillTile_ShouldDropSeeds(int, int) added by ThoriumMod
+[14:59:37.117] [Main Thread/DEBUG] [tML]: Hook Terraria.IO.WorldFile::ClearTempTiles() added by ThoriumMod
+[14:59:37.128] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::SetupStatueList() added by ThoriumMod
+[14:59:37.164] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.ItemDropRules.ItemDropResolver::TryDropping(DropAttemptInfo) added by ThoriumMod
+[14:59:37.168] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::RollLuck(int) added by ThoriumMod
+[14:59:37.175] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.UI.Elements.UICharacter::PreparePetProjectiles() added by ThoriumMod
+[14:59:37.187] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::FreeUpPetsAndMinions(Item) added by ThoriumMod
+[14:59:37.196] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ItemCheck_StartActualUse(Item) added by ThoriumMod
+[14:59:37.211] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ApplyDamageToNPC(NPC, int, float, int, bool, DamageClass, bool) added by ThoriumMod
+[14:59:45.914] [.NET TP Worker/INFO] [tML]: JITModsAsync completed in 13093ms
+[14:59:45.914] [Main Thread/INFO] [tML]: Resizing...
+[14:59:46.176] [Main Thread/INFO] [tML]: Configuring Content: ModLoader (tModLoader) v2025.2.3.2
+[14:59:46.191] [Main Thread/INFO] [tML]: Configuring Content: BossChecklist (Boss Checklist) v2.2.2
+[14:59:46.191] [Main Thread/INFO] [tML]: Configuring Content: SerousCommonLib (absoluteAquarian Utilities) v1.0.5.1
+[14:59:46.191] [Main Thread/INFO] [tML]: Configuring Content: MagicStorage (Magic Storage) v0.6.0.3
+[14:59:46.308] [Main Thread/INFO] [tML]: Configuring Content: NCBSI (Not Consumable Boss Summon Items + New vanilla Boss Summons) v6.3
+[14:59:46.309] [Main Thread/INFO] [tML]: Configuring Content: OreExcavator (Ore Excavator (1.4.3/1.4.4 Veinminer)) v0.8.9
+[14:59:46.309] [Main Thread/INFO] [tML]: Configuring Content: RecipeBrowser (Recipe Browser) v0.10.8.3
+[14:59:46.309] [Main Thread/INFO] [tML]: Configuring Content: WombatQOL (Wombat's General Improvements) v1.3.13
+[14:59:46.312] [Main Thread/INFO] [tML]: Configuring Content: Remnants (Remnants) v1.5.46.2
+[14:59:46.330] [Main Thread/INFO] [tML]: Configuring Content: ThoriumMod (Thorium Mod) v1.7.2.3
+[14:59:46.699] [Main Thread/INFO] [tML]: Finalizing Content: ModLoader (tModLoader) v2025.2.3.2
+[14:59:46.700] [Main Thread/INFO] [tML]: Finalizing Content: BossChecklist (Boss Checklist) v2.2.2
+[14:59:46.700] [Main Thread/INFO] [tML]: Finalizing Content: SerousCommonLib (absoluteAquarian Utilities) v1.0.5.1
+[14:59:46.700] [Main Thread/INFO] [tML]: Finalizing Content: MagicStorage (Magic Storage) v0.6.0.3
+[14:59:46.728] [Main Thread/INFO] [tML]: Finalizing Content: NCBSI (Not Consumable Boss Summon Items + New vanilla Boss Summons) v6.3
+[14:59:46.728] [Main Thread/INFO] [tML]: Finalizing Content: OreExcavator (Ore Excavator (1.4.3/1.4.4 Veinminer)) v0.8.9
+[14:59:46.728] [Main Thread/INFO] [OreExcavator]: Auto-whitelist runner started. Looking for modded ores and gems to whitelist...
+[14:59:46.728] [Main Thread/INFO] [OreExcavator]: Running through tML Ore Tile Set...
+[14:59:46.728] [Main Thread/INFO] [OreExcavator]: Ore Set Search completed.
+[14:59:46.728] [Main Thread/INFO] [OreExcavator]: Beginning manaual ore search...
+[14:59:46.729] [Main Thread/INFO] [OreExcavator]: Found Remnants - But we're already up-to-date with them! v(1.5.46.2) 
+[14:59:46.729] [Main Thread/INFO] [OreExcavator]: Found ThoriumMod - But we're already up-to-date with them! v(1.7.2.3) 
+[14:59:46.730] [Main Thread/INFO] [OreExcavator]: Auto-whitelist runner concluded. Finishing up...
+[14:59:46.730] [Main Thread/INFO] [tML]: Finalizing Content: RecipeBrowser (Recipe Browser) v0.10.8.3
+[14:59:46.730] [Main Thread/INFO] [tML]: Finalizing Content: WombatQOL (Wombat's General Improvements) v1.3.13
+[14:59:46.730] [Main Thread/INFO] [tML]: Finalizing Content: Remnants (Remnants) v1.5.46.2
+[14:59:46.730] [Main Thread/INFO] [tML]: Finalizing Content: ThoriumMod (Thorium Mod) v1.7.2.3
+[14:59:46.779] [Main Thread/INFO] [tML]: Mods using the most RAM: ThoriumMod 122.6 MB, MagicStorage 27.1 MB, Remnants 6.5 MB
+[14:59:46.790] [Main Thread/INFO] [tML]: RAM physical: tModLoader usage: 634.8 MB, All processes usage: 1.9 GB, Available: 5.9 GB, Total Installed: 7.8 GB
+[14:59:46.790] [Main Thread/INFO] [tML]: RAM virtual: tModLoader usage: 690.2 MB, All processes usage: 2.4 GB
+[14:59:46.974] [Main Thread/DEBUG] [tML]: GlobalItem registration stats. Count: 31, Slots per Entity: 1
+	Instanced: 1, Conditional with slot: 0, Conditional by type: 17, Applies to single type: 1
+	List Permutations: 17, Est Memory Consumption: 1312 bytes
+[14:59:47.047] [Main Thread/DEBUG] [tML]: GlobalNPC registration stats. Count: 21, Slots per Entity: 10
+	Instanced: 10, Conditional with slot: 0, Conditional by type: 0, Applies to single type: 0
+	List Permutations: 1, Est Memory Consumption: 16 bytes
+[14:59:47.076] [Main Thread/DEBUG] [tML]: GlobalProjectile registration stats. Count: 4, Slots per Entity: 1
+	Instanced: 1, Conditional with slot: 0, Conditional by type: 0, Applies to single type: 0
+	List Permutations: 1, Est Memory Consumption: 16 bytes
+[14:59:47.959] [Main Thread/INFO] [tML]: Adding Recipes...
+[14:59:48.005] [Main Thread/INFO] [BossChecklist]: The Boss Log Mod Call has been last updated on BossChecklist (v2.0.0). Check out the GitHub Wiki guide to stay updated on the latest changes! Updated Mod.Call documentation for BossChecklist can be found here: https://github.com/JavidPack/BossChecklist/wiki/[1.4.4]-Boss-Log-Entry-Mod-Call
+[14:59:48.005] [Main Thread/INFO] [BossChecklist]: Progression values for vanilla entries have been last updated on BossChecklist (v1.4.0)
+[14:59:48.005] [Main Thread/INFO] [BossChecklist]: NoLogging
+[14:59:49.174] [Main Thread/INFO] [tML]: Mod Load Completed in 17652ms
+[14:59:49.176] [.NET TP Worker/INFO] [Terraria]: Loading World: Symphony of the Thorium, IsCloud=False, Width: 6400, Height: 1800, Evil: 1, GameMode: 2
+[14:59:49.248] [.NET TP Worker/INFO] [StatusText]: Loading world data
+[14:59:50.911] [.NET TP Worker/INFO] [StatusText]: Settling liquids
+[14:59:51.472] [Main Thread/INFO] [Terraria]: Running one update...
+[14:59:52.381] [Main Thread/INFO] [Terraria]: Listening on port 7777
+[14:59:52.385] [Main Thread/INFO] [StatusText]: Starting server...
+[14:59:52.499] [Main Thread/INFO] [StatusText]: Server started
+[14:59:52.532] [.NET TP Worker/DEBUG] [tML]: SSDP search line separator: CRLF
+[15:03:19.003] [TCP Listen Thread/INFO] [Terraria]: 100.93.241.72:49962 is connecting...
+[15:03:19.005] [Main Thread/DEBUG] [tML]: Client has tModLoader v2025.2.3.3, assuming net compatibility
+[15:03:19.006] [Main Thread/DEBUG] [tML]: Sending Server Config MagicStorage:MagicStorageServerConfig {}
+[15:03:19.006] [Main Thread/DEBUG] [tML]: Sending Server Config NCBSI:BlacklistConfig {}
+[15:03:19.006] [Main Thread/DEBUG] [tML]: Sending Server Config OreExcavator:OreExcavatorConfig_Server {"manaConsumption":0.0,"oreMultiplier":1.0}
+[15:03:19.006] [Main Thread/DEBUG] [tML]: Sending Server Config WombatQOL:Gameplay {}
+[15:03:19.007] [Main Thread/DEBUG] [tML]: Sending Server Config WombatQOL:Worldgen {}
+[15:03:19.007] [Main Thread/DEBUG] [tML]: Sending Server Config Remnants:Gameplay {}
+[15:03:19.007] [Main Thread/DEBUG] [tML]: Sending Server Config Remnants:Worldgen {}
+[15:03:19.007] [Main Thread/DEBUG] [tML]: Sending Server Config ThoriumMod:ThoriumConfigServer {"donatorAccessories":{},"donatorVanities":{},"donatorWeapons":{},"donatorOther":{}}
+[15:03:19.008] [Main Thread/INFO] [tML]: tModLoader RAM usage has increased: 1.2 GB
+[15:04:03.073] [Main Thread/INFO] [Network]: [0][100.93.241.72:49962 (Anonymous)] Keep Alive During Mod Reload
+[15:04:07.903] [Main Thread/INFO] [Terraria]: Bard has joined.
+[15:13:19.815] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[15:13:20.019] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[15:13:20.082] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[15:13:20.162] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[15:23:19.823] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[15:23:20.019] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[15:23:20.073] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[15:23:20.131] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[15:33:19.840] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[15:33:20.031] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[15:33:20.082] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[15:33:20.129] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[15:43:19.877] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[15:43:20.070] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[15:43:20.124] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[15:43:20.169] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[15:44:19.364] [Main Thread/INFO] [tML]: tModLoader RAM usage has increased: 2.1 GB
+[15:53:19.984] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[15:53:20.156] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[15:53:20.212] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[15:53:20.257] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[16:03:19.990] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[16:03:20.172] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[16:03:20.223] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[16:03:20.261] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[16:13:19.955] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[16:13:20.182] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[16:13:20.258] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[16:13:20.323] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[16:23:20.022] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[16:23:20.187] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[16:23:20.241] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[16:23:20.286] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[16:33:20.056] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[16:33:20.247] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[16:33:20.299] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[16:33:20.346] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[16:43:20.120] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[16:43:20.293] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[16:43:20.347] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[16:43:20.395] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[16:53:20.100] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[16:53:20.274] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[16:53:20.327] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[16:53:20.377] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[17:03:20.138] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[17:03:20.310] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[17:03:20.364] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[17:03:20.419] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[17:13:20.207] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[17:13:20.390] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[17:13:20.443] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[17:13:20.486] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[17:23:20.223] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[17:23:20.410] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[17:23:20.462] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[17:23:20.508] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[17:33:20.242] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[17:33:20.423] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[17:33:20.477] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[17:33:20.520] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[17:43:20.276] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[17:43:20.441] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[17:43:20.493] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[17:43:20.540] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[17:53:20.321] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[17:53:20.495] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[17:53:20.548] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[17:53:20.603] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[18:03:20.330] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[18:03:20.493] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[18:03:20.548] [.NET TP Worker/INFO] [StatusText]: Backing up world file
+[18:03:20.581] [.NET TP Worker/INFO] [StatusText]: Saving modded world data

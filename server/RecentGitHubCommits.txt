@@ -1,0 +1,10 @@
+2b5a2bc3aa9791f30bbba2abc9af6472bea8f414 Fix-up 4dc187f.
+af8f755774ffe79f6bc4185b4c32fa718587c187 Add primitive handling for unexpected mod removal
+bfb0ac79d9a444e153542bde1ec6128795a2826b Update changed-files version to remove security warning.
+a03d77d468b4555eb4df312eae967900c87e4f74 Fix #4439 - Early Script Exit on Unix
+1bee82f6883e1a43b6967db0b18aeb1a20e2b171 Fix #4556 , SteamFamilyShareWarning screen can now be dismissed permanently.
+e909fb3783e936120ca2b9f989592a9e99a7ae0f Update ru-RU tModLoader.json (#4555)
+5b7a272ed883ac0d960adc8af8bfeb9493eaa718 Localize custom player death messages (PlayerDeathReason.ByCustomReason) (#4553)
+258d61a8a475c7f5009636fda2e94a238d7b9f4a Actions reminder and requested docs.
+92051b5cd1b11a2d9cbf6233d2c2282f81bfd77b Increased ExampleBiome track's volume due to XACT remapping.
+ffd7971fe253d3355a6915b0668acb7aae3d1ff5 Added `MusicID.Sets.SkipsVolumeRemap[]` (#4530)
